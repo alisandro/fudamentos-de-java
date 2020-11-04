@@ -1,0 +1,9 @@
+codificar Compilar ejecutar un archivo java
+primer paso
+Abrir el cmd o terminal
+luego posicionarse dentro de la carpeta
+1.-introdcucir el comando javac <nombre de archivo> y damos en enter
+2.-compilamos
+3.-una vez que se crea el <nombre de archivo .class> lo podremos ejecutar
+4.-ejecutamos con esta linea java <name file>
+5.-mostrara en pantalla lo que se halla codificado.
